@@ -1,0 +1,147 @@
+{
+  "metaTitle": "Expert Plumbing Services in [location] | Available 24/7",
+  "metaDescription": "Professional plumbing services in [location] including emergency repairs, drain cleaning, and installations. Licensed plumbers available 24/7. Call [phone] now!",
+  "bannerQuote": "",
+  "bannerImage": "https://ik.imagekit.io/z6skgnupx/yourplumber3_com/Plumbing_Services_bannerImage_nZUoYTE69.jpg",
+  "h1Banner": "Professional Plumbing Services in [location] Available 24/7",
+  "p1Banner": "Need a reliable plumber in [location]? We offer comprehensive plumbing services from emergency repairs to new installations. Our licensed plumbers are available 24/7. Call [phone] for immediate assistance!",
+  "serviceTitle": "",
+  "serviceData": {
+    "title": "Complete Plumbing Solutions in [location]",
+    "p": "",
+    "lists": [
+      {
+        "title": "Emergency Plumbing Services",
+        "shortDescription": "24/7 emergency plumbing repairs for burst pipes, flooding, and urgent plumbing issues.",
+        "description": "<ul>     <li>         <p><strong>Service Type</strong>: Emergency Response</p>     </li>     <li>         <p><strong>Benefits</strong>:</p>         <ul class='list-disc pl-4'>             <li>                 <p>Available 24/7/365</p>             </li>             <li>                 <p>Fast response times for urgent plumbing emergencies</p>             </li>  <li>                 <p>Licensed and insured professionals</p>             </li>       </ul>     </li> </ul>",
+        "h2": "Professional Emergency Plumbing Services in [location]",
+        "p2": "Experiencing a plumbing emergency? Our team of licensed plumbers in [location] provides rapid response services for burst pipes, severe leaks, and flooding. We arrive fully equipped to handle any emergency, minimizing water damage and restoring your plumbing system quickly. Call us now for immediate assistance!",
+        "tyesHeading": "When Do You Need Emergency Plumbing Services?",
+        "slug": "emergency-plumbing",
+        "imageUrl": "https://ik.imagekit.io/serviceproviders/yourplumber3_com/emergency-plumbing.png",
+        "overViewHeading": "Overview Of Emergency Plumbing Services",
+        "overViewContent": "<ul><li><p><strong>Services Include</strong>:</p><ul class='list-disc pl-4'><li><p>Burst pipe repair</p></li><li><p>Water leak detection</p></li><li><p>Emergency drain clearing</p></li></ul></li></ul><div class='mb-2 font-semibold'>What's Included:</div><ul class='list-disc pl-4 mb-4'><li><p>24/7 availability</p></li><li><p>Professional diagnosis</p></li></ul>",
+        "leftSection": {
+          "title": "EMERGENCY RESPONSE",
+          "description": "Immediate service for urgent plumbing issues: flooding, burst pipes, severe leaks"
+        },
+        "rightSection": {
+          "title": "Why Choose Our Emergency Services",
+          "description": "Our licensed plumbers arrive quickly with fully-stocked trucks to handle any plumbing emergency, day or night."
+        },
+        "comapreHeading": "What's Included in Emergency Service?",
+        "allowedHeading": "Services Provided",
+        "allowedItems": [
+          "Burst pipe repair",
+          "Emergency drain clearing",
+          "Water heater failures",
+          "Sewer backup response",
+          "Leak detection and repair"
+        ],
+        "prohibitedHeading": "Not Included",
+        "prohibitedItems": [
+          "Non-emergency maintenance",
+          "Cosmetic plumbing updates",
+          "Complete system replacements",
+          "Long-term renovation projects"
+        ],
+        "idealHeading": "Common Emergency Scenarios:",
+        "idealProjects": [
+          "Burst or frozen pipes",
+          "Major water leaks",
+          "Sewage backups",
+          "No hot water",
+          "Overflowing toilets"
+        ]
+      },
+      {
+        "title": "Drain Cleaning Services",
+        "shortDescription": "Professional drain cleaning using advanced equipment to clear any clog or blockage.",
+        "description": "<ul>     <li>         <p><strong>Service Type</strong>: Maintenance & Repair</p>     </li>     <li>         <p><strong>Benefits</strong>:</p>         <ul class='list-disc pl-4'>             <li>                 <p>Advanced drain cleaning technology</p>             </li>             <li>                 <p>Complete clog removal and prevention</p>             </li>  <li>                 <p>Camera inspection available</p>             </li>       </ul>     </li> </ul>",
+        "h2": "Expert Drain Cleaning Solutions in [location]",
+        "p2": "Dealing with slow drains or clogs? Our professional drain cleaning service in [location] uses state-of-the-art equipment to clear any blockage. From kitchen sinks to main sewer lines, we ensure your drains flow freely. Call Us at [phone] to schedule your drain cleaning service!",
+        "tyesHeading": "Why Choose Our Drain Cleaning Services?",
+        "slug": "drain-cleaning",
+        "imageUrl": "https://ik.imagekit.io/serviceproviders/yourplumber3_com/drain-cleaning.png",
+        "overViewHeading": "Overview Of Drain Cleaning Services",
+        "overViewContent": "<ul><li><p><strong>Services Include</strong>:</p><ul class='list-disc pl-4'><li><p>Hydro jetting</p></li><li><p>Snake cleaning</p></li><li><p>Camera inspection</p></li></ul></li></ul>",
+        "leftSection": {
+          "title": "DRAIN CLEANING",
+          "description": "Professional solutions for clogged drains, slow drainage, and sewer line maintenance"
+        },
+        "rightSection": {
+          "title": "Advanced Cleaning Methods",
+          "description": "We use the latest technology including hydro jetting and video inspection to ensure thorough drain cleaning."
+        },
+        "comapreHeading": "What's Included in Drain Cleaning?",
+        "allowedHeading": "Services Provided",
+        "allowedItems": [
+          "Hydro jetting",
+          "Snake cleaning",
+          "Camera inspection",
+          "Drain maintenance",
+          "Clog removal"
+        ],
+        "prohibitedHeading": "Not Included",
+        "prohibitedItems": [
+          "Pipe replacement",
+          "Fixture installation",
+          "Complete plumbing overhaul",
+          "Non-drain related repairs"
+        ],
+        "idealHeading": "Common Drain Issues We Solve:",
+        "idealProjects": [
+          "Clogged kitchen sinks",
+          "Slow bathroom drains",
+          "Main line blockages",
+          "Sewer line backups",
+          "Preventive maintenance"
+        ]
+      },
+      {
+        "title": "Water Heater Services",
+        "shortDescription": "Installation, repair, and maintenance for all types of water heaters.",
+        "description": "<ul>     <li>         <p><strong>Service Type</strong>: Installation & Repair</p>     </li>     <li>         <p><strong>Benefits</strong>:</p>         <ul class='list-disc pl-4'>             <li>                 <p>Expert installation and repair</p>             </li>             <li>                 <p>All types of water heaters serviced</p>             </li>  <li>                 <p>Energy-efficient solutions</p>             </li>       </ul>     </li> </ul>",
+        "h2": "Professional Water Heater Services in [location]",
+        "p2": "Need water heater repair or replacement? Our experts handle all types of water heaters - traditional, tankless, and hybrid systems. We provide fast, reliable service to ensure you have consistent hot water. Call Us at [phone] to schedule your water heater service!",
+        "tyesHeading": "Water Heater Solutions We Offer",
+        "slug": "water-heater-services",
+        "imageUrl": "https://ik.imagekit.io/serviceproviders/yourplumber3_com/water-heater.png",
+        "overViewHeading": "Overview Of Water Heater Services",
+        "overViewContent": "<ul><li><p><strong>Services Include</strong>:</p><ul class='list-disc pl-4'><li><p>Installation</p></li><li><p>Repair</p></li><li><p>Maintenance</p></li></ul></li></ul>",
+        "leftSection": {
+          "title": "WATER HEATER EXPERTS",
+          "description": "Complete services for traditional, tankless, and hybrid water heater systems"
+        },
+        "rightSection": {
+          "title": "Expert Installation & Repair",
+          "description": "Our licensed plumbers are trained in all water heater brands and types, ensuring quality service every time."
+        },
+        "comapreHeading": "Water Heater Services We Provide",
+        "allowedHeading": "Services Offered",
+        "allowedItems": [
+          "New installations",
+          "Emergency repairs",
+          "Maintenance service",
+          "System upgrades",
+          "Energy efficiency consultations"
+        ],
+        "prohibitedHeading": "Not Included",
+        "prohibitedItems": [
+          "HVAC services",
+          "Electrical work",
+          "Gas line installation",
+          "Non-plumbing repairs"
+        ],
+        "idealHeading": "Common Water Heater Services:",
+        "idealProjects": [
+          "No hot water repair",
+          "Leaking tank repair",
+          "New system installation",
+          "Annual maintenance",
+          "Efficiency upgrades"
+        ]
+      }
+    ]
+  }
+}
